@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16162" started-at="2022-07-13T00:59:24 CDT" finished-at="2022-07-13T00:59:40 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16162" started-at="2022-07-13T00:59:24 CDT" finished-at="2022-07-13T00:59:40 CDT">
+      <class name="test.AddContactTest">
+        <test-method status="PASS" signature="clickCHeck()[pri:0, instance:test.AddContactTest@47faa49c]" name="clickCHeck" duration-ms="16132" started-at="2022-07-13T00:59:24 CDT" finished-at="2022-07-13T00:59:40 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCHeck -->
+      </class> <!-- test.AddContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
